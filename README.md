@@ -1,2 +1,0 @@
-# sbrgqldocs
-SBR GQL Docs
